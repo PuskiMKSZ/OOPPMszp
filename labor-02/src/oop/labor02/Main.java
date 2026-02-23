@@ -23,7 +23,7 @@ public class Main {
     Rectangle elso;
     elso.Glength(10);
     elso.Gwidth(10);
-        elso.Gwidth(10);
+
 
 
 
