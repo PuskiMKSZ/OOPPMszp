@@ -7,7 +7,7 @@ public class Rectangle {
         this.lenght+=amount;
     }
     void Gwidth(double amount){
-        this.lenght+=amount;
+        this.lenght+=amount
     }
     void Perimeter()
     {
