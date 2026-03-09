@@ -1,4 +1,4 @@
-package oop.labor03.labor_1;
+package Labor4_2;
 
 public class BankAccount {
     private String accountNumber;
