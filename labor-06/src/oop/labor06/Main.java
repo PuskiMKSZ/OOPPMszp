@@ -1,7 +1,28 @@
 package oop.labor06;
 
+import java.util.ArrayList;
+
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("Hello, Lab_06");
+
+        ArrayList<BankAccount> accounts = new ArrayList<>();
+
+        for (int i = 0; i < 10; i++) {
+            accounts.add(new BankAccount());
+        }
+
+
+        System.out.println(accounts);
+
+
+
+
+
+
+
     }
+
+
+
 }
